@@ -1,0 +1,1 @@
+Lecture I put together on the Kingma and Welling (2013) Auto-Encoding Variational Bayes.
